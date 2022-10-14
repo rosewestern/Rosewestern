@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rosew205
 - 👀 I’m interested in Editing, Crypto, Testnet and Movie
 - 🌱 I’m currently learning Blender
-- 💞️ I’m looking to collaborate on Nothing
+- 💞️ I’m looking for Nothing
 - 📫 Twitter @rosewestern205
 
 <!---
