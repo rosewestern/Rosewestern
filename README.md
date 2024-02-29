@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" width="200" height="200" alt="Your Name">
+  <img src="[https://static.wikia.nocookie.net/animal-jam-clans-1/images/a/a3/IMG_3387.JPG/revision/latest?cb=20160125170356]" width="200" height="200" alt="Your Name">
 </p>
 
 <h1 align="center">👋 Hello, I'm Rosew !</h1>
 
 <p align="center">
-Cyrpto Enthusiast
+₿ Cyrpto Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social"></a>
+  <a href="https://twitter.com/rosewestern205" target="_blank"><img src="https://img.shields.io/twitter/follow/rosewestern205?label=Follow&style=social"></a>
 </p>
 
 ---
