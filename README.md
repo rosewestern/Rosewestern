@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://static.wikia.nocookie.net/animal-jam-clans-1/images/a/a3/IMG_3387.JPG/revision/latest?cb=20160125170356]" width="200" height="200" alt="Your Name">
+  <img src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/a/a3/IMG_3387.JPG/revision/latest?cb=20160125170356"  alt="Pizza Cat">
 </p>
 
 <h1 align="center">👋 Hello, I'm Rosew !</h1>
